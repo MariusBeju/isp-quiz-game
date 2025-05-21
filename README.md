@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project is a sample application which implements a quiz like game where user has a limited time to answer some quiz questions. Game will end when user make a mistake or when time expires.
+This project is a sample application which implements a quiz like game where user has a limited time to answer some quiz questions. Game will end when user make a mistake or when time expires. Not to bad.
 
 ## General Architecture
 
